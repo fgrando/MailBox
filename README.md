@@ -16,3 +16,8 @@ Python 3 dependencies can be installed using pip: `pip install pyzmail36 imapcli
 ### Usage
 1. Setup `email_settings.ini` with IMAP and SMTP server addresses and port. Inform also your username and password.
 2. Setup `CommandHandlerConfigs.json` with a valid email address (allowed to receive replies from the script).
+
+### Development Status
+Basically functionality is achieved, but it is not capable to reply binary attachments yet.
+And it is likelly to stay like this because I don't have time to continue :(
+
